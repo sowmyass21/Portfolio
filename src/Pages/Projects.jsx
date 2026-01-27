@@ -3,6 +3,7 @@ import "./Pages.css";
 import Desidiaries from "../assets/Desidiaries.png";
 import WeatherApp from "../assets/WeatherApp.png";
 import PortfolioPic from "../assets/PortfolioPicture.png";
+import authsystem from "../assets/authsystem.png"
 const projects = [
   {
     id: 1,
@@ -12,11 +13,11 @@ const projects = [
     link: "https://github.com/your-username/portfolio"
   },
   {
-    id: 2,
-    title: "E-commerce Platform",
-    desc: "Full-stack MERN e-commerce app with product listings, cart, and authentication.",
-    img: "/images/ecommerce.jpg",
-    link: "https://github.com/your-username/ecommerce-app"
+  id: 2,
+  title: "Authentication System",
+  desc: "Full-stack MERN authentication system with product signup, signin, forgot password and dashboard.",
+  img: authsystem,
+  link: "https://github.com/sowmyass21/Authentication-System.git",
   },
   {
     id: 3,
