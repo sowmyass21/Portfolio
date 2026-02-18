@@ -4,7 +4,7 @@ import Desidiaries from "../assets/Desidiaries.png";
 import WeatherApp from "../assets/WeatherApp.png";
 import PortfolioPic from "../assets/PortfolioPicture.png";
 import authsystem from "../assets/authsystem.png"
-import aiui from "../assets/ai ui generator.png"
+import aiui from "../assets/aiuigenerator.png"
 const projects = [
   {
     id: 1,
@@ -31,7 +31,7 @@ const projects = [
     id: 4,
     title: "AI UI Generator",
     desc: "AI‑powered tool that converts text prompts into responsive UI layouts automatically.",
-    img:aiui,
+    img: aiui,
     link: "https://github.com/sowmyass21/ai-ui-generator.git"
   },
   {
