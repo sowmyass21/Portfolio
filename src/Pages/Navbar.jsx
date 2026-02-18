@@ -13,6 +13,7 @@ export default function Navbar() {
         <Link to="/"><i className="bi bi-house-fill"></i> Home</Link>
         <Link to="/about"><i className="bi bi-person-fill"></i> About</Link>
         <Link to="/skills"><i className="bi bi-code-slash"></i> Skills</Link>
+        <Link to="/certifications"><i className="bi bi-award-fill"></i> Certifications</Link>
         <Link to="/projects"><i className="bi bi-briefcase-fill"></i> Projects</Link>
         <Link to="/contact"><i className="bi bi-envelope-fill"></i> Contact</Link>
       </nav>

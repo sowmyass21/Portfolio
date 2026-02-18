@@ -10,7 +10,7 @@ export default function Contact() {
     e.preventDefault();
 
     try {
-      const res = await fetch("http://localhost:5000/send", {
+      const res = await fetch("https://portfolio-contact-backend-pkpa.onrender.com", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ email, subject, message }),

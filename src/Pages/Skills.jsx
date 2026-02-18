@@ -23,6 +23,7 @@ export default function Skills() {
             <ul className="skill-icons">
               <li><i className="devicon-react-original"></i>React</li>
               <li><i className="devicon-nodejs-plain"></i>Node.js</li>
+              <li><i class="devicon-angular-plain"></i>Angular</li>
             </ul>
           </div>
 
@@ -39,10 +40,25 @@ export default function Skills() {
           <div className="skill-card">
             <h4>Academic Courses</h4>
             <ul className="skill-icons">
-              <li>Data Structures & Algorithms</li>
-              <li>Operating Systems</li>
-              <li>Computer Networks</li>
-              <li>DBMS</li>
+              <ul>
+  <li>
+    <i className="devicon-mongodb-plain colored"></i> DBMS
+  </li>
+  <li>
+    <i className="devicon-java-plain colored"></i> OOPS
+  </li>
+  <li>
+    <i className="devicon-python-plain colored"></i> Data Structures & Algorithms
+  </li>
+  <li>
+    <i className="devicon-linux-plain colored"></i> Operating Systems
+  </li>
+  <li>
+    <i className="devicon-networkx-original"></i> Computer Networks
+  </li>
+</ul>
+
+              
             </ul>
           </div>
         </div>

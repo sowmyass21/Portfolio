@@ -9,7 +9,7 @@ const projects = [
     id: 1,
     title: "Portfolio Website",
     desc: "A personal portfolio built with React to showcase my skills, projects, and contact details.",
-    img: "src/assets/PortfolioPicture.png",     // place image in public/images or adjust path
+    img: "src/assets/PortfolioPicture.png", 
     link: "https://github.com/your-username/portfolio"
   },
   {
@@ -28,10 +28,10 @@ const projects = [
   },
   {
     id: 4,
-    title: "Task Management Tool",
-    desc: "Task manager with drag-and-drop boards and deadlines.",
-    img: "/images/tasks.jpg",
-    link: "https://github.com/your-username/task-manager"
+    title: "AI UI Generator",
+    desc: "AI‑powered tool that converts text prompts into responsive UI layouts automatically.",
+    img: "src/assets/ai ui generator.png",
+    link: "https://github.com/sowmyass21/ai-ui-generator.git"
   },
   {
     id: 5,
