@@ -1,16 +1,26 @@
-# React + Vite
+# Sowmya's Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my personal developer portfolio built with React and Vite to showcase my skills, projects, and experience as an aspiring full‑stack developer.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Live Portfolio: https://portfolio-website-8la9.onrender.com
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+- Frontend: React, Vite, HTML, CSS, JavaScript
+- Styling: CSS (custom), icons via Devicon/Bootstrap Icons
+- Backend (contact form): Node.js, Express, Nodemailer
+- Deployment: Render (Static Site + Node Web Service)
+- Other: Git, GitHub, REST APIs
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Responsive single‑page layout with smooth navigation between sections (Home, About, Skills, Projects, Contact).
+- Projects section highlighting MERN and AI‑related work, including:
+  - AI UI Generator – AI‑powered tool that converts natural language prompts into responsive UI layouts using a MERN backend integrated with the Gemini API.[file:55]
+  - Full‑stack Registration Form – User registration app with form validation, MongoDB persistence, and email confirmations via Nodemailer.[file:55]
+- Skills section covering MERN stack, JavaScript, core CS subjects, and tools.
+- Contact form that sends messages directly to my email using a Node.js + Nodemailer backend.
+
