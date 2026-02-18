@@ -9,7 +9,7 @@ const projects = [
     id: 1,
     title: "Portfolio Website",
     desc: "A personal portfolio built with React to showcase my skills, projects, and contact details.",
-    img: "src/assets/PortfolioPicture.png", 
+    img:PortfolioPic,
     link: "https://github.com/your-username/portfolio"
   },
   {
@@ -23,7 +23,7 @@ const projects = [
     id: 3,
     title: "Desi Diaries Blog",
     desc: "Blog platform with CRUD posts, categories, and rich text editor.",
-    img: "src/assets/Desidiaries.png",
+    img: Desidiaries,
     link: "https://github.com/sowmyass21/Desi-Diaries-blog.git"
   },
   {
@@ -44,7 +44,7 @@ const projects = [
     id: 6,
     title: "Weather App",
     desc: "Real time weather forecasting app using OpenWeatherMap API.",
-    img: "/src/assets/WeatherApp.png",
+    img: WeatherApp,
     link: "https://github.com/sowmyass21/weather-app.git"
   }
 ];
