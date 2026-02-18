@@ -19,7 +19,7 @@ This is my personal developer portfolio built with React and Vite to showcase my
 
 - Responsive single‑page layout with smooth navigation between sections (Home, About, Skills, Projects, Contact).
 - Projects section highlighting MERN and AI‑related work, including:
-  - AI UI Generator – AI‑powered tool that converts natural language prompts into responsive UI layouts using a MERN backend integrated with the Gemini API.[file:55]
+  - AI UI Generator – AI‑powered tool that converts natural language prompts into responsive UI layouts using a MERN backend integrated with the Gemini API.
   - Full‑stack Registration Form – User registration app with form validation, MongoDB persistence, and email confirmations via Nodemailer.[file:55]
 - Skills section covering MERN stack, JavaScript, core CS subjects, and tools.
 - Contact form that sends messages directly to my email using a Node.js + Nodemailer backend.
